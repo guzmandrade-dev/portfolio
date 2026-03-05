@@ -1,4 +1,3 @@
-# Portfolio
 
 ## 🧩 Project 1 — Global Nonprofit: Block‑Based Theme Migration & AI‑Powered Search  
 
