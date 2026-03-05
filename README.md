@@ -2,7 +2,8 @@
 
 ## 🧩 Project 1 — Global Nonprofit: Block‑Based Theme Migration & AI‑Powered Search  
 
-**Role:** Migration Specialist, Support Engineer  
+**Role:** Migration Specialist, Support Engineer
+
 **Summary:** Led the migration of a large legacy WordPress site from a classic theme to a modern block‑based architecture. Built custom tools to convert ACF‑based content into Core and custom Gutenberg blocks, ensuring clean structure and long‑term maintainability.  
 
 **Key Contributions:**  
