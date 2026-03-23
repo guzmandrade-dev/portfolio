@@ -1,3 +1,20 @@
+## 🤖 AI Provider for Ollama: WordPress 7.0 AI Connector Plugin
+
+**Role:** Open Source Author
+
+**Summary:** Developed an open-source WordPress plugin that implements the upcoming WordPress 7.0 AI Connector interface, enabling developers to use a local [Ollama](https://ollama.com) instance as an AI provider instead of cloud-based services like OpenAI or Claude.
+
+**Key Contributions:**
+
+- Implemented the WordPress 7.0 AI Connector interface as a custom local provider.
+- Enabled fully offline AI-powered features during local development, improving developer privacy and eliminating API costs.
+- Bridged the gap between WordPress core's emerging AI abstractions and locally-run LLMs via Ollama.
+
+**Impact:** Empowers WordPress developers to build and test AI-powered features locally, without relying on third-party API keys or exposing data to external services.
+
+**Repository:** [guzmandrade-dev/ai-provider-for-ollama](https://github.com/guzmandrade-dev/ai-provider-for-ollama)
+
+---
 
 ## 🧩 Project 1 — Global Nonprofit: Block‑Based Theme Migration & AI‑Powered Search  
 
@@ -86,3 +103,5 @@
 **Impact:** Strengthened site performance and ensured consistent, high‑quality user experience.  
 
 **Note:** Project details available upon request.
+
+---
