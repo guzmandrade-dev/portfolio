@@ -12,7 +12,7 @@
 
 **Impact:** Empowers WordPress developers to build and test AI-powered features locally, without relying on third-party API keys or exposing data to external services.
 
-**Repository:** [guzmandrade-dev/ai-provider-for-ollama](https://github.com/guzmandrade-dev/ai-provider-for-ollama)
+**Repository:** [guzmandrade-dev/ai-provider-for-ollama](https://github.com/guzmandrade-dev/ai-provider-for-ollama){:target="_blank"}
 
 ---
 
